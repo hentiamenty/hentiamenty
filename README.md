@@ -1,4 +1,4 @@
-- 👋 Hi,I’m Elena. I'm studying Data Science
+- 👋 Hi,I’m Elena. I'm a Data Science
 - 👀 I’m passionated in AI and machine learning. Also I'm interested in
 programming, electronics and robotics, physics, psychology,languages
 - 🌱 I’m currently learning different types of NN 
