@@ -1,8 +1,6 @@
-- 👋 Hi,I’m Elena. I'm a Data Science
-- 👀 I’m passionated in AI and machine learning. Also I'm interested in
-programming, electronics and robotics, physics, psychology,languages
-- 🌱 I’m currently learning different types of NN 
-- 💞️ I’m looking to collaborate in the field of creating the AI personalized assistant.
+- 👋 Hi,I’m Elena. I'm a Data Scientist and AI developer
+- 👀 I’m passionated in AI. Also I'm interested in electronics and robotics, physics,languages
+- 💞️ I’m looking to collaborate in the field of creating the AI personalized assistants.
 - 📫 How to reach me: burtucal@yandex.ru
 
 <!---
